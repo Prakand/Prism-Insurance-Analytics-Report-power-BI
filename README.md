@@ -1,4 +1,4 @@
-**📊 PRISM INSURANCE PVT. LTD. – Dashboard (Excel)**
+**📊 PRISM INSURANCE PVT. LTD. – Dashboard (Power BI)**
 
 🧾 **Overview**
 This Power BI dashboard provides a comprehensive analysis of insurance policy and claim data for Prism Insurance Pvt. Ltd. It helps management monitor key business metrics such as premium amount, claim amount, policy activity status, and customer distribution — all in one interactive visual report.
